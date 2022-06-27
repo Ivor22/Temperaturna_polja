@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="upute">
+    <file>pomoc_merged.png</file>
+  </qresource>
+  <qresource prefix="upute_f">
+    <file>pomoc_formule_merged.png</file>
+  </qresource>
+</RCC>

@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="slike2">
+    <file>pozadina.jpg</file>
+  </qresource>
+</RCC>
