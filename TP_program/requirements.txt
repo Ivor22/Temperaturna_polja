@@ -1,0 +1,13 @@
+#Paketi koje je potrebno instalirati#
+#za pokretanje Python programa za   #
+#analizu temperaturnih polja        # 
+
+airium
+scipy
+fpdf
+PyQt5
+plotly
+pandas
+numpy
+PyQtWebEngine
+kaleido
